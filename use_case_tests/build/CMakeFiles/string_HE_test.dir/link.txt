@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/string_HE_test.dir/string_HE_test.cpp.o  -o ../string_HE_test  /home/kanka/Desktop/SEAL/native/lib/libseal-3.4.a -pthread 

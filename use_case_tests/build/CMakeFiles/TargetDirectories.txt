@@ -1,0 +1,4 @@
+/home/kanka/Desktop/HEPlayLab/use_case_tests/build/CMakeFiles/rebuild_cache.dir
+/home/kanka/Desktop/HEPlayLab/use_case_tests/build/CMakeFiles/edit_cache.dir
+/home/kanka/Desktop/HEPlayLab/use_case_tests/build/CMakeFiles/PlayLab.dir
+/home/kanka/Desktop/HEPlayLab/use_case_tests/build/CMakeFiles/string_HE_test.dir

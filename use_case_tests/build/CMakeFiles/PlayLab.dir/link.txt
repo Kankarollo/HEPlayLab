@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/PlayLab.dir/playlab.cpp.o  -o ../PlayLab  /home/kanka/Desktop/SEAL/native/lib/libseal-3.4.a -pthread 
